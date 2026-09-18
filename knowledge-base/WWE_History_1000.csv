@@ -1,0 +1,1001 @@
+Match ID,Date,Event,Winner,Loser,Title Match
+1,2023-01-01,Royal Rumble,John Cena,AJ Styles,Yes
+2,2023-01-08,Elimination Chamber,Roman Reigns,Seth Rollins,No
+3,2023-01-15,WrestleMania,Brock Lesnar,Roman Reigns,Yes
+4,2023-01-22,Backlash,Seth Rollins,Brock Lesnar,No
+5,2023-01-29,Money in the Bank,Randy Orton,John Cena,Yes
+6,2023-02-05,SummerSlam,AJ Styles,Bobby Lashley,No
+7,2023-02-12,Survivor Series,Edge,Kevin Owens,Yes
+8,2023-02-19,Extreme Rules,Drew McIntyre,Drew McIntyre,No
+9,2023-02-26,Hell in a Cell,Kevin Owens,Edge,Yes
+10,2023-03-05,Fastlane,Bobby Lashley,Randy Orton,No
+11,2023-03-12,Royal Rumble,Charlotte Flair,Naomi,Yes
+12,2023-03-19,Elimination Chamber,Becky Lynch,Asuka,No
+13,2023-03-26,WrestleMania,Sasha Banks,Bayley,Yes
+14,2023-04-02,Backlash,Bayley,Sasha Banks,No
+15,2023-04-09,Money in the Bank,Asuka,Shayna Baszler,Yes
+16,2023-04-16,SummerSlam,Shayna Baszler,Liv Morgan,No
+17,2023-04-23,Survivor Series,Nia Jax,Nia Jax,Yes
+18,2023-04-30,Extreme Rules,Rhea Ripley,Rhea Ripley,No
+19,2023-05-07,Hell in a Cell,Liv Morgan,Becky Lynch,Yes
+20,2023-05-14,Fastlane,Naomi,Charlotte Flair,No
+21,2023-05-21,Royal Rumble,Finn Balor,Ricochet,Yes
+22,2023-05-28,Elimination Chamber,Kofi Kingston,Xavier Woods,No
+23,2023-06-04,WrestleMania,Big E,Big E,Yes
+24,2023-06-11,Backlash,Xavier Woods,Kofi Kingston,No
+25,2023-06-18,Money in the Bank,Ricochet,Finn Balor,Yes
+26,2023-06-25,SummerSlam,Aleister Black,Velveteen Dream,No
+27,2023-07-02,Survivor Series,Tommaso Ciampa,Johnny Gargano,Yes
+28,2023-07-09,Extreme Rules,Johnny Gargano,Tommaso Ciampa,No
+29,2023-07-16,Hell in a Cell,Adam Cole,Aleister Black,Yes
+30,2023-07-23,Fastlane,Velveteen Dream,Adam Cole,No
+31,2023-07-30,Royal Rumble,Keith Lee,Roderick Strong,Yes
+32,2023-08-06,Elimination Chamber,Damian Priest,Dexter Lumis,No
+33,2023-08-13,WrestleMania,Dexter Lumis,Bronson Reed,Yes
+34,2023-08-20,Backlash,Bronson Reed,Damian Priest,No
+35,2023-08-27,Money in the Bank,Roderick Strong,Keith Lee,Yes
+36,2023-09-03,SummerSlam,Kyle O'Reilly,Gunther,No
+37,2023-09-10,Survivor Series,Pete Dunne,Walter,Yes
+38,2023-09-17,Extreme Rules,Ilja Dragunov,Ilja Dragunov,No
+39,2023-09-24,Hell in a Cell,Walter,Pete Dunne,Yes
+40,2023-10-01,Fastlane,Gunther,Kyle O'Reilly,No
+41,2023-10-08,Royal Rumble,Jinder Mahal,Shelton Benjamin,Yes
+42,2023-10-15,Elimination Chamber,R-Truth,Cedric Alexander,No
+43,2023-10-22,WrestleMania,Titus O'Neil,Titus O'Neil,Yes
+44,2023-10-29,Backlash,Cedric Alexander,R-Truth,No
+45,2023-11-05,Money in the Bank,Shelton Benjamin,Jinder Mahal,Yes
+46,2023-01-01,Royal Rumble,The Miz,Elias,Yes
+47,2023-01-08,Elimination Chamber,Morrison,Matt Hardy,No
+48,2023-01-15,WrestleMania,Jeff Hardy,Jeff Hardy,Yes
+49,2023-01-22,Backlash,John Cena,AJ Styles,No
+50,2023-01-29,Money in the Bank,Roman Reigns,Seth Rollins,Yes
+1,2023-02-05,SummerSlam,Brock Lesnar,Roman Reigns,No
+2,2023-02-12,Survivor Series,Seth Rollins,Brock Lesnar,Yes
+3,2023-02-19,Extreme Rules,Randy Orton,John Cena,No
+4,2023-02-26,Hell in a Cell,AJ Styles,Bobby Lashley,Yes
+5,2023-03-05,Fastlane,Edge,Kevin Owens,No
+6,2023-03-12,Royal Rumble,Drew McIntyre,Drew McIntyre,Yes
+7,2023-03-19,Elimination Chamber,Kevin Owens,Edge,No
+8,2023-03-26,WrestleMania,Bobby Lashley,Randy Orton,Yes
+9,2023-04-02,Backlash,Charlotte Flair,Naomi,No
+10,2023-04-09,Money in the Bank,Becky Lynch,Asuka,Yes
+11,2023-04-16,SummerSlam,Sasha Banks,Bayley,No
+12,2023-04-23,Survivor Series,Bayley,Sasha Banks,Yes
+13,2023-04-30,Extreme Rules,Asuka,Shayna Baszler,No
+14,2023-05-07,Hell in a Cell,Shayna Baszler,Liv Morgan,Yes
+15,2023-05-14,Fastlane,Nia Jax,Nia Jax,No
+16,2023-05-21,Royal Rumble,Rhea Ripley,Rhea Ripley,Yes
+17,2023-05-28,Elimination Chamber,Liv Morgan,Becky Lynch,No
+18,2023-06-04,WrestleMania,Naomi,Charlotte Flair,Yes
+19,2023-06-11,Backlash,Finn Balor,Ricochet,No
+20,2023-06-18,Money in the Bank,Kofi Kingston,Xavier Woods,Yes
+21,2023-06-25,SummerSlam,Big E,Big E,No
+22,2023-07-02,Survivor Series,Xavier Woods,Kofi Kingston,Yes
+23,2023-07-09,Extreme Rules,Ricochet,Finn Balor,No
+24,2023-07-16,Hell in a Cell,Aleister Black,Velveteen Dream,Yes
+25,2023-07-23,Fastlane,Tommaso Ciampa,Johnny Gargano,No
+26,2023-07-30,Royal Rumble,Johnny Gargano,Tommaso Ciampa,Yes
+27,2023-08-06,Elimination Chamber,Adam Cole,Aleister Black,No
+28,2023-08-13,WrestleMania,Velveteen Dream,Adam Cole,Yes
+29,2023-08-20,Backlash,Keith Lee,Roderick Strong,No
+30,2023-08-27,Money in the Bank,Damian Priest,Dexter Lumis,Yes
+31,2023-09-03,SummerSlam,Dexter Lumis,Bronson Reed,No
+32,2023-09-10,Survivor Series,Bronson Reed,Damian Priest,Yes
+33,2023-09-17,Extreme Rules,Roderick Strong,Keith Lee,No
+34,2023-09-24,Hell in a Cell,Kyle O'Reilly,Gunther,Yes
+35,2023-10-01,Fastlane,Pete Dunne,Walter,No
+36,2023-10-08,Royal Rumble,Ilja Dragunov,Ilja Dragunov,Yes
+37,2023-10-15,Elimination Chamber,Walter,Pete Dunne,No
+38,2023-10-22,WrestleMania,Gunther,Kyle O'Reilly,Yes
+39,2023-10-29,Backlash,Jinder Mahal,Shelton Benjamin,No
+40,2023-11-05,Money in the Bank,R-Truth,Cedric Alexander,Yes
+41,2023-01-01,Royal Rumble,Titus O'Neil,Titus O'Neil,Yes
+42,2023-01-08,Elimination Chamber,Cedric Alexander,R-Truth,No
+43,2023-01-15,WrestleMania,Shelton Benjamin,Jinder Mahal,Yes
+44,2023-01-22,Backlash,The Miz,Elias,No
+45,2023-01-29,Money in the Bank,Morrison,Matt Hardy,Yes
+46,2023-02-05,SummerSlam,Jeff Hardy,Jeff Hardy,No
+47,2023-02-12,Survivor Series,John Cena,AJ Styles,Yes
+48,2023-02-19,Extreme Rules,Roman Reigns,Seth Rollins,No
+49,2023-02-26,Hell in a Cell,Brock Lesnar,Roman Reigns,Yes
+50,2023-03-05,Fastlane,Seth Rollins,Brock Lesnar,No
+1,2023-03-12,Royal Rumble,Randy Orton,John Cena,Yes
+2,2023-03-19,Elimination Chamber,AJ Styles,Bobby Lashley,No
+3,2023-03-26,WrestleMania,Edge,Kevin Owens,Yes
+4,2023-04-02,Backlash,Drew McIntyre,Drew McIntyre,No
+5,2023-04-09,Money in the Bank,Kevin Owens,Edge,Yes
+6,2023-04-16,SummerSlam,Bobby Lashley,Randy Orton,No
+7,2023-04-23,Survivor Series,Charlotte Flair,Naomi,Yes
+8,2023-04-30,Extreme Rules,Becky Lynch,Asuka,No
+9,2023-05-07,Hell in a Cell,Sasha Banks,Bayley,Yes
+10,2023-05-14,Fastlane,Bayley,Sasha Banks,No
+11,2023-05-21,Royal Rumble,Asuka,Shayna Baszler,Yes
+12,2023-05-28,Elimination Chamber,Shayna Baszler,Liv Morgan,No
+13,2023-06-04,WrestleMania,Nia Jax,Nia Jax,Yes
+14,2023-06-11,Backlash,Rhea Ripley,Rhea Ripley,No
+15,2023-06-18,Money in the Bank,Liv Morgan,Becky Lynch,Yes
+16,2023-06-25,SummerSlam,Naomi,Charlotte Flair,No
+17,2023-07-02,Survivor Series,Finn Balor,Ricochet,Yes
+18,2023-07-09,Extreme Rules,Kofi Kingston,Xavier Woods,No
+19,2023-07-16,Hell in a Cell,Big E,Big E,Yes
+20,2023-07-23,Fastlane,Xavier Woods,Kofi Kingston,No
+21,2023-07-30,Royal Rumble,Ricochet,Finn Balor,Yes
+22,2023-08-06,Elimination Chamber,Aleister Black,Velveteen Dream,No
+23,2023-08-13,WrestleMania,Tommaso Ciampa,Johnny Gargano,Yes
+24,2023-08-20,Backlash,Johnny Gargano,Tommaso Ciampa,No
+25,2023-08-27,Money in the Bank,Adam Cole,Aleister Black,Yes
+26,2023-09-03,SummerSlam,Velveteen Dream,Adam Cole,No
+27,2023-09-10,Survivor Series,Keith Lee,Roderick Strong,Yes
+28,2023-09-17,Extreme Rules,Damian Priest,Dexter Lumis,No
+29,2023-09-24,Hell in a Cell,Dexter Lumis,Bronson Reed,Yes
+30,2023-10-01,Fastlane,Bronson Reed,Damian Priest,No
+31,2023-10-08,Royal Rumble,Roderick Strong,Keith Lee,Yes
+32,2023-10-15,Elimination Chamber,Kyle O'Reilly,Gunther,No
+33,2023-10-22,WrestleMania,Pete Dunne,Walter,Yes
+34,2023-10-29,Backlash,Ilja Dragunov,Ilja Dragunov,No
+35,2023-11-05,Money in the Bank,Walter,Pete Dunne,Yes
+36,2023-01-01,Royal Rumble,Gunther,Kyle O'Reilly,Yes
+37,2023-01-08,Elimination Chamber,Jinder Mahal,Shelton Benjamin,No
+38,2023-01-15,WrestleMania,R-Truth,Cedric Alexander,Yes
+39,2023-01-22,Backlash,Titus O'Neil,Titus O'Neil,No
+40,2023-01-29,Money in the Bank,Cedric Alexander,R-Truth,Yes
+41,2023-02-05,SummerSlam,Shelton Benjamin,Jinder Mahal,No
+42,2023-02-12,Survivor Series,The Miz,Elias,Yes
+43,2023-02-19,Extreme Rules,Morrison,Matt Hardy,No
+44,2023-02-26,Hell in a Cell,Jeff Hardy,Jeff Hardy,Yes
+45,2023-03-05,Fastlane,John Cena,AJ Styles,No
+46,2023-03-12,Royal Rumble,Roman Reigns,Seth Rollins,Yes
+47,2023-03-19,Elimination Chamber,Brock Lesnar,Roman Reigns,No
+48,2023-03-26,WrestleMania,Seth Rollins,Brock Lesnar,Yes
+49,2023-04-02,Backlash,Randy Orton,John Cena,No
+50,2023-04-09,Money in the Bank,AJ Styles,Bobby Lashley,Yes
+1,2023-04-16,SummerSlam,Edge,Kevin Owens,No
+2,2023-04-23,Survivor Series,Drew McIntyre,Drew McIntyre,Yes
+3,2023-04-30,Extreme Rules,Kevin Owens,Edge,No
+4,2023-05-07,Hell in a Cell,Bobby Lashley,Randy Orton,Yes
+5,2023-05-14,Fastlane,Charlotte Flair,Naomi,No
+6,2023-05-21,Royal Rumble,Becky Lynch,Asuka,Yes
+7,2023-05-28,Elimination Chamber,Sasha Banks,Bayley,No
+8,2023-06-04,WrestleMania,Bayley,Sasha Banks,Yes
+9,2023-06-11,Backlash,Asuka,Shayna Baszler,No
+10,2023-06-18,Money in the Bank,Shayna Baszler,Liv Morgan,Yes
+11,2023-06-25,SummerSlam,Nia Jax,Nia Jax,No
+12,2023-07-02,Survivor Series,Rhea Ripley,Rhea Ripley,Yes
+13,2023-07-09,Extreme Rules,Liv Morgan,Becky Lynch,No
+14,2023-07-16,Hell in a Cell,Naomi,Charlotte Flair,Yes
+15,2023-07-23,Fastlane,Finn Balor,Ricochet,No
+16,2023-07-30,Royal Rumble,Kofi Kingston,Xavier Woods,Yes
+17,2023-08-06,Elimination Chamber,Big E,Big E,No
+18,2023-08-13,WrestleMania,Xavier Woods,Kofi Kingston,Yes
+19,2023-08-20,Backlash,Ricochet,Finn Balor,No
+20,2023-08-27,Money in the Bank,Aleister Black,Velveteen Dream,Yes
+21,2023-09-03,SummerSlam,Tommaso Ciampa,Johnny Gargano,No
+22,2023-09-10,Survivor Series,Johnny Gargano,Tommaso Ciampa,Yes
+23,2023-09-17,Extreme Rules,Adam Cole,Aleister Black,No
+24,2023-09-24,Hell in a Cell,Velveteen Dream,Adam Cole,Yes
+25,2023-10-01,Fastlane,Keith Lee,Roderick Strong,No
+26,2023-10-08,Royal Rumble,Damian Priest,Dexter Lumis,Yes
+27,2023-10-15,Elimination Chamber,Dexter Lumis,Bronson Reed,No
+28,2023-10-22,WrestleMania,Bronson Reed,Damian Priest,Yes
+29,2023-10-29,Backlash,Roderick Strong,Keith Lee,No
+30,2023-11-05,Money in the Bank,Kyle O'Reilly,Gunther,Yes
+31,2023-01-01,Royal Rumble,Pete Dunne,Walter,Yes
+32,2023-01-08,Elimination Chamber,Ilja Dragunov,Ilja Dragunov,No
+33,2023-01-15,WrestleMania,Walter,Pete Dunne,Yes
+34,2023-01-22,Backlash,Gunther,Kyle O'Reilly,No
+35,2023-01-29,Money in the Bank,Jinder Mahal,Shelton Benjamin,Yes
+36,2023-02-05,SummerSlam,R-Truth,Cedric Alexander,No
+37,2023-02-12,Survivor Series,Titus O'Neil,Titus O'Neil,Yes
+38,2023-02-19,Extreme Rules,Cedric Alexander,R-Truth,No
+39,2023-02-26,Hell in a Cell,Shelton Benjamin,Jinder Mahal,Yes
+40,2023-03-05,Fastlane,The Miz,Elias,No
+41,2023-03-12,Royal Rumble,Morrison,Matt Hardy,Yes
+42,2023-03-19,Elimination Chamber,Jeff Hardy,Jeff Hardy,No
+43,2023-03-26,WrestleMania,John Cena,AJ Styles,Yes
+44,2023-04-02,Backlash,Roman Reigns,Seth Rollins,No
+45,2023-04-09,Money in the Bank,Brock Lesnar,Roman Reigns,Yes
+46,2023-04-16,SummerSlam,Seth Rollins,Brock Lesnar,No
+47,2023-04-23,Survivor Series,Randy Orton,John Cena,Yes
+48,2023-04-30,Extreme Rules,AJ Styles,Bobby Lashley,No
+49,2023-05-07,Hell in a Cell,Edge,Kevin Owens,Yes
+50,2023-05-14,Fastlane,Drew McIntyre,Drew McIntyre,No
+1,2023-05-21,Royal Rumble,Kevin Owens,Edge,Yes
+2,2023-05-28,Elimination Chamber,Bobby Lashley,Randy Orton,No
+3,2023-06-04,WrestleMania,Charlotte Flair,Naomi,Yes
+4,2023-06-11,Backlash,Becky Lynch,Asuka,No
+5,2023-06-18,Money in the Bank,Sasha Banks,Bayley,Yes
+6,2023-06-25,SummerSlam,Bayley,Sasha Banks,No
+7,2023-07-02,Survivor Series,Asuka,Shayna Baszler,Yes
+8,2023-07-09,Extreme Rules,Shayna Baszler,Liv Morgan,No
+9,2023-07-16,Hell in a Cell,Nia Jax,Nia Jax,Yes
+10,2023-07-23,Fastlane,Rhea Ripley,Rhea Ripley,No
+11,2023-07-30,Royal Rumble,Liv Morgan,Becky Lynch,Yes
+12,2023-08-06,Elimination Chamber,Naomi,Charlotte Flair,No
+13,2023-08-13,WrestleMania,Finn Balor,Ricochet,Yes
+14,2023-08-20,Backlash,Kofi Kingston,Xavier Woods,No
+15,2023-08-27,Money in the Bank,Big E,Big E,Yes
+16,2023-09-03,SummerSlam,Xavier Woods,Kofi Kingston,No
+17,2023-09-10,Survivor Series,Ricochet,Finn Balor,Yes
+18,2023-09-17,Extreme Rules,Aleister Black,Velveteen Dream,No
+19,2023-09-24,Hell in a Cell,Tommaso Ciampa,Johnny Gargano,Yes
+20,2023-10-01,Fastlane,Johnny Gargano,Tommaso Ciampa,No
+21,2023-10-08,Royal Rumble,Adam Cole,Aleister Black,Yes
+22,2023-10-15,Elimination Chamber,Velveteen Dream,Adam Cole,No
+23,2023-10-22,WrestleMania,Keith Lee,Roderick Strong,Yes
+24,2023-10-29,Backlash,Damian Priest,Dexter Lumis,No
+25,2023-11-05,Money in the Bank,Dexter Lumis,Bronson Reed,Yes
+26,2023-01-01,Royal Rumble,Bronson Reed,Damian Priest,Yes
+27,2023-01-08,Elimination Chamber,Roderick Strong,Keith Lee,No
+28,2023-01-15,WrestleMania,Kyle O'Reilly,Gunther,Yes
+29,2023-01-22,Backlash,Pete Dunne,Walter,No
+30,2023-01-29,Money in the Bank,Ilja Dragunov,Ilja Dragunov,Yes
+31,2023-02-05,SummerSlam,Walter,Pete Dunne,No
+32,2023-02-12,Survivor Series,Gunther,Kyle O'Reilly,Yes
+33,2023-02-19,Extreme Rules,Jinder Mahal,Shelton Benjamin,No
+34,2023-02-26,Hell in a Cell,R-Truth,Cedric Alexander,Yes
+35,2023-03-05,Fastlane,Titus O'Neil,Titus O'Neil,No
+36,2023-03-12,Royal Rumble,Cedric Alexander,R-Truth,Yes
+37,2023-03-19,Elimination Chamber,Shelton Benjamin,Jinder Mahal,No
+38,2023-03-26,WrestleMania,The Miz,Elias,Yes
+39,2023-04-02,Backlash,Morrison,Matt Hardy,No
+40,2023-04-09,Money in the Bank,Jeff Hardy,Jeff Hardy,Yes
+41,2023-04-16,SummerSlam,John Cena,AJ Styles,No
+42,2023-04-23,Survivor Series,Roman Reigns,Seth Rollins,Yes
+43,2023-04-30,Extreme Rules,Brock Lesnar,Roman Reigns,No
+44,2023-05-07,Hell in a Cell,Seth Rollins,Brock Lesnar,Yes
+45,2023-05-14,Fastlane,Randy Orton,John Cena,No
+46,2023-05-21,Royal Rumble,AJ Styles,Bobby Lashley,Yes
+47,2023-05-28,Elimination Chamber,Edge,Kevin Owens,No
+48,2023-06-04,WrestleMania,Drew McIntyre,Drew McIntyre,Yes
+49,2023-06-11,Backlash,Kevin Owens,Edge,No
+50,2023-06-18,Money in the Bank,Bobby Lashley,Randy Orton,Yes
+1,2023-06-25,SummerSlam,Charlotte Flair,Naomi,No
+2,2023-07-02,Survivor Series,Becky Lynch,Asuka,Yes
+3,2023-07-09,Extreme Rules,Sasha Banks,Bayley,No
+4,2023-07-16,Hell in a Cell,Bayley,Sasha Banks,Yes
+5,2023-07-23,Fastlane,Asuka,Shayna Baszler,No
+6,2023-07-30,Royal Rumble,Shayna Baszler,Liv Morgan,Yes
+7,2023-08-06,Elimination Chamber,Nia Jax,Nia Jax,No
+8,2023-08-13,WrestleMania,Rhea Ripley,Rhea Ripley,Yes
+9,2023-08-20,Backlash,Liv Morgan,Becky Lynch,No
+10,2023-08-27,Money in the Bank,Naomi,Charlotte Flair,Yes
+11,2023-09-03,SummerSlam,Finn Balor,Ricochet,No
+12,2023-09-10,Survivor Series,Kofi Kingston,Xavier Woods,Yes
+13,2023-09-17,Extreme Rules,Big E,Big E,No
+14,2023-09-24,Hell in a Cell,Xavier Woods,Kofi Kingston,Yes
+15,2023-10-01,Fastlane,Ricochet,Finn Balor,No
+16,2023-10-08,Royal Rumble,Aleister Black,Velveteen Dream,Yes
+17,2023-10-15,Elimination Chamber,Tommaso Ciampa,Johnny Gargano,No
+18,2023-10-22,WrestleMania,Johnny Gargano,Tommaso Ciampa,Yes
+19,2023-10-29,Backlash,Adam Cole,Aleister Black,No
+20,2023-11-05,Money in the Bank,Velveteen Dream,Adam Cole,Yes
+21,2023-01-01,Royal Rumble,Keith Lee,Roderick Strong,Yes
+22,2023-01-08,Elimination Chamber,Damian Priest,Dexter Lumis,No
+23,2023-01-15,WrestleMania,Dexter Lumis,Bronson Reed,Yes
+24,2023-01-22,Backlash,Bronson Reed,Damian Priest,No
+25,2023-01-29,Money in the Bank,Roderick Strong,Keith Lee,Yes
+26,2023-02-05,SummerSlam,Kyle O'Reilly,Gunther,No
+27,2023-02-12,Survivor Series,Pete Dunne,Walter,Yes
+28,2023-02-19,Extreme Rules,Ilja Dragunov,Ilja Dragunov,No
+29,2023-02-26,Hell in a Cell,Walter,Pete Dunne,Yes
+30,2023-03-05,Fastlane,Gunther,Kyle O'Reilly,No
+31,2023-03-12,Royal Rumble,Jinder Mahal,Shelton Benjamin,Yes
+32,2023-03-19,Elimination Chamber,R-Truth,Cedric Alexander,No
+33,2023-03-26,WrestleMania,Titus O'Neil,Titus O'Neil,Yes
+34,2023-04-02,Backlash,Cedric Alexander,R-Truth,No
+35,2023-04-09,Money in the Bank,Shelton Benjamin,Jinder Mahal,Yes
+36,2023-04-16,SummerSlam,The Miz,Elias,No
+37,2023-04-23,Survivor Series,Morrison,Matt Hardy,Yes
+38,2023-04-30,Extreme Rules,Jeff Hardy,Jeff Hardy,No
+39,2023-05-07,Hell in a Cell,John Cena,AJ Styles,Yes
+40,2023-05-14,Fastlane,Roman Reigns,Seth Rollins,No
+41,2023-05-21,Royal Rumble,Brock Lesnar,Roman Reigns,Yes
+42,2023-05-28,Elimination Chamber,Seth Rollins,Brock Lesnar,No
+43,2023-06-04,WrestleMania,Randy Orton,John Cena,Yes
+44,2023-06-11,Backlash,AJ Styles,Bobby Lashley,No
+45,2023-06-18,Money in the Bank,Edge,Kevin Owens,Yes
+46,2023-06-25,SummerSlam,Drew McIntyre,Drew McIntyre,No
+47,2023-07-02,Survivor Series,Kevin Owens,Edge,Yes
+48,2023-07-09,Extreme Rules,Bobby Lashley,Randy Orton,No
+49,2023-07-16,Hell in a Cell,Charlotte Flair,Naomi,Yes
+50,2023-07-23,Fastlane,Becky Lynch,Asuka,No
+1,2023-07-30,Royal Rumble,Sasha Banks,Bayley,Yes
+2,2023-08-06,Elimination Chamber,Bayley,Sasha Banks,No
+3,2023-08-13,WrestleMania,Asuka,Shayna Baszler,Yes
+4,2023-08-20,Backlash,Shayna Baszler,Liv Morgan,No
+5,2023-08-27,Money in the Bank,Nia Jax,Nia Jax,Yes
+6,2023-09-03,SummerSlam,Rhea Ripley,Rhea Ripley,No
+7,2023-09-10,Survivor Series,Liv Morgan,Becky Lynch,Yes
+8,2023-09-17,Extreme Rules,Naomi,Charlotte Flair,No
+9,2023-09-24,Hell in a Cell,Finn Balor,Ricochet,Yes
+10,2023-10-01,Fastlane,Kofi Kingston,Xavier Woods,No
+11,2023-10-08,Royal Rumble,Big E,Big E,Yes
+12,2023-10-15,Elimination Chamber,Xavier Woods,Kofi Kingston,No
+13,2023-10-22,WrestleMania,Ricochet,Finn Balor,Yes
+14,2023-10-29,Backlash,Aleister Black,Velveteen Dream,No
+15,2023-11-05,Money in the Bank,Tommaso Ciampa,Johnny Gargano,Yes
+16,2023-01-01,Royal Rumble,Johnny Gargano,Tommaso Ciampa,Yes
+17,2023-01-08,Elimination Chamber,Adam Cole,Aleister Black,No
+18,2023-01-15,WrestleMania,Velveteen Dream,Adam Cole,Yes
+19,2023-01-22,Backlash,Keith Lee,Roderick Strong,No
+20,2023-01-29,Money in the Bank,Damian Priest,Dexter Lumis,Yes
+21,2023-02-05,SummerSlam,Dexter Lumis,Bronson Reed,No
+22,2023-02-12,Survivor Series,Bronson Reed,Damian Priest,Yes
+23,2023-02-19,Extreme Rules,Roderick Strong,Keith Lee,No
+24,2023-02-26,Hell in a Cell,Kyle O'Reilly,Gunther,Yes
+25,2023-03-05,Fastlane,Pete Dunne,Walter,No
+26,2023-03-12,Royal Rumble,Ilja Dragunov,Ilja Dragunov,Yes
+27,2023-03-19,Elimination Chamber,Walter,Pete Dunne,No
+28,2023-03-26,WrestleMania,Gunther,Kyle O'Reilly,Yes
+29,2023-04-02,Backlash,Jinder Mahal,Shelton Benjamin,No
+30,2023-04-09,Money in the Bank,R-Truth,Cedric Alexander,Yes
+31,2023-04-16,SummerSlam,Titus O'Neil,Titus O'Neil,No
+32,2023-04-23,Survivor Series,Cedric Alexander,R-Truth,Yes
+33,2023-04-30,Extreme Rules,Shelton Benjamin,Jinder Mahal,No
+34,2023-05-07,Hell in a Cell,The Miz,Elias,Yes
+35,2023-05-14,Fastlane,Morrison,Matt Hardy,No
+36,2023-05-21,Royal Rumble,Jeff Hardy,Jeff Hardy,Yes
+37,2023-05-28,Elimination Chamber,John Cena,AJ Styles,No
+38,2023-06-04,WrestleMania,Roman Reigns,Seth Rollins,Yes
+39,2023-06-11,Backlash,Brock Lesnar,Roman Reigns,No
+40,2023-06-18,Money in the Bank,Seth Rollins,Brock Lesnar,Yes
+41,2023-06-25,SummerSlam,Randy Orton,John Cena,No
+42,2023-07-02,Survivor Series,AJ Styles,Bobby Lashley,Yes
+43,2023-07-09,Extreme Rules,Edge,Kevin Owens,No
+44,2023-07-16,Hell in a Cell,Drew McIntyre,Drew McIntyre,Yes
+45,2023-07-23,Fastlane,Kevin Owens,Edge,No
+46,2023-07-30,Royal Rumble,Bobby Lashley,Randy Orton,Yes
+47,2023-08-06,Elimination Chamber,Charlotte Flair,Naomi,No
+48,2023-08-13,WrestleMania,Becky Lynch,Asuka,Yes
+49,2023-08-20,Backlash,Sasha Banks,Bayley,No
+50,2023-08-27,Money in the Bank,Bayley,Sasha Banks,Yes
+1,2023-09-03,SummerSlam,Asuka,Shayna Baszler,No
+2,2023-09-10,Survivor Series,Shayna Baszler,Liv Morgan,Yes
+3,2023-09-17,Extreme Rules,Nia Jax,Nia Jax,No
+4,2023-09-24,Hell in a Cell,Rhea Ripley,Rhea Ripley,Yes
+5,2023-10-01,Fastlane,Liv Morgan,Becky Lynch,No
+6,2023-10-08,Royal Rumble,Naomi,Charlotte Flair,Yes
+7,2023-10-15,Elimination Chamber,Finn Balor,Ricochet,No
+8,2023-10-22,WrestleMania,Kofi Kingston,Xavier Woods,Yes
+9,2023-10-29,Backlash,Big E,Big E,No
+10,2023-11-05,Money in the Bank,Xavier Woods,Kofi Kingston,Yes
+11,2023-01-01,Royal Rumble,Ricochet,Finn Balor,Yes
+12,2023-01-08,Elimination Chamber,Aleister Black,Velveteen Dream,No
+13,2023-01-15,WrestleMania,Tommaso Ciampa,Johnny Gargano,Yes
+14,2023-01-22,Backlash,Johnny Gargano,Tommaso Ciampa,No
+15,2023-01-29,Money in the Bank,Adam Cole,Aleister Black,Yes
+16,2023-02-05,SummerSlam,Velveteen Dream,Adam Cole,No
+17,2023-02-12,Survivor Series,Keith Lee,Roderick Strong,Yes
+18,2023-02-19,Extreme Rules,Damian Priest,Dexter Lumis,No
+19,2023-02-26,Hell in a Cell,Dexter Lumis,Bronson Reed,Yes
+20,2023-03-05,Fastlane,Bronson Reed,Damian Priest,No
+21,2023-03-12,Royal Rumble,Roderick Strong,Keith Lee,Yes
+22,2023-03-19,Elimination Chamber,Kyle O'Reilly,Gunther,No
+23,2023-03-26,WrestleMania,Pete Dunne,Walter,Yes
+24,2023-04-02,Backlash,Ilja Dragunov,Ilja Dragunov,No
+25,2023-04-09,Money in the Bank,Walter,Pete Dunne,Yes
+26,2023-04-16,SummerSlam,Gunther,Kyle O'Reilly,No
+27,2023-04-23,Survivor Series,Jinder Mahal,Shelton Benjamin,Yes
+28,2023-04-30,Extreme Rules,R-Truth,Cedric Alexander,No
+29,2023-05-07,Hell in a Cell,Titus O'Neil,Titus O'Neil,Yes
+30,2023-05-14,Fastlane,Cedric Alexander,R-Truth,No
+31,2023-05-21,Royal Rumble,Shelton Benjamin,Jinder Mahal,Yes
+32,2023-05-28,Elimination Chamber,The Miz,Elias,No
+33,2023-06-04,WrestleMania,Morrison,Matt Hardy,Yes
+34,2023-06-11,Backlash,Jeff Hardy,Jeff Hardy,No
+35,2023-06-18,Money in the Bank,John Cena,AJ Styles,Yes
+36,2023-06-25,SummerSlam,Roman Reigns,Seth Rollins,No
+37,2023-07-02,Survivor Series,Brock Lesnar,Roman Reigns,Yes
+38,2023-07-09,Extreme Rules,Seth Rollins,Brock Lesnar,No
+39,2023-07-16,Hell in a Cell,Randy Orton,John Cena,Yes
+40,2023-07-23,Fastlane,AJ Styles,Bobby Lashley,No
+41,2023-07-30,Royal Rumble,Edge,Kevin Owens,Yes
+42,2023-08-06,Elimination Chamber,Drew McIntyre,Drew McIntyre,No
+43,2023-08-13,WrestleMania,Kevin Owens,Edge,Yes
+44,2023-08-20,Backlash,Bobby Lashley,Randy Orton,No
+45,2023-08-27,Money in the Bank,Charlotte Flair,Naomi,Yes
+46,2023-09-03,SummerSlam,Becky Lynch,Asuka,No
+47,2023-09-10,Survivor Series,Sasha Banks,Bayley,Yes
+48,2023-09-17,Extreme Rules,Bayley,Sasha Banks,No
+49,2023-09-24,Hell in a Cell,Asuka,Shayna Baszler,Yes
+50,2023-10-01,Fastlane,Shayna Baszler,Liv Morgan,No
+1,2023-10-08,Royal Rumble,Nia Jax,Nia Jax,Yes
+2,2023-10-15,Elimination Chamber,Rhea Ripley,Rhea Ripley,No
+3,2023-10-22,WrestleMania,Liv Morgan,Becky Lynch,Yes
+4,2023-10-29,Backlash,Naomi,Charlotte Flair,No
+5,2023-11-05,Money in the Bank,Finn Balor,Ricochet,Yes
+6,2023-01-01,Royal Rumble,Kofi Kingston,Xavier Woods,Yes
+7,2023-01-08,Elimination Chamber,Big E,Big E,No
+8,2023-01-15,WrestleMania,Xavier Woods,Kofi Kingston,Yes
+9,2023-01-22,Backlash,Ricochet,Finn Balor,No
+10,2023-01-29,Money in the Bank,Aleister Black,Velveteen Dream,Yes
+11,2023-02-05,SummerSlam,Tommaso Ciampa,Johnny Gargano,No
+12,2023-02-12,Survivor Series,Johnny Gargano,Tommaso Ciampa,Yes
+13,2023-02-19,Extreme Rules,Adam Cole,Aleister Black,No
+14,2023-02-26,Hell in a Cell,Velveteen Dream,Adam Cole,Yes
+15,2023-03-05,Fastlane,Keith Lee,Roderick Strong,No
+16,2023-03-12,Royal Rumble,Damian Priest,Dexter Lumis,Yes
+17,2023-03-19,Elimination Chamber,Dexter Lumis,Bronson Reed,No
+18,2023-03-26,WrestleMania,Bronson Reed,Damian Priest,Yes
+19,2023-04-02,Backlash,Roderick Strong,Keith Lee,No
+20,2023-04-09,Money in the Bank,Kyle O'Reilly,Gunther,Yes
+21,2023-04-16,SummerSlam,Pete Dunne,Walter,No
+22,2023-04-23,Survivor Series,Ilja Dragunov,Ilja Dragunov,Yes
+23,2023-04-30,Extreme Rules,Walter,Pete Dunne,No
+24,2023-05-07,Hell in a Cell,Gunther,Kyle O'Reilly,Yes
+25,2023-05-14,Fastlane,Jinder Mahal,Shelton Benjamin,No
+26,2023-05-21,Royal Rumble,R-Truth,Cedric Alexander,Yes
+27,2023-05-28,Elimination Chamber,Titus O'Neil,Titus O'Neil,No
+28,2023-06-04,WrestleMania,Cedric Alexander,R-Truth,Yes
+29,2023-06-11,Backlash,Shelton Benjamin,Jinder Mahal,No
+30,2023-06-18,Money in the Bank,The Miz,Elias,Yes
+31,2023-06-25,SummerSlam,Morrison,Matt Hardy,No
+32,2023-07-02,Survivor Series,Jeff Hardy,Jeff Hardy,Yes
+33,2023-07-09,Extreme Rules,John Cena,AJ Styles,No
+34,2023-07-16,Hell in a Cell,Roman Reigns,Seth Rollins,Yes
+35,2023-07-23,Fastlane,Brock Lesnar,Roman Reigns,No
+36,2023-07-30,Royal Rumble,Seth Rollins,Brock Lesnar,Yes
+37,2023-08-06,Elimination Chamber,Randy Orton,John Cena,No
+38,2023-08-13,WrestleMania,AJ Styles,Bobby Lashley,Yes
+39,2023-08-20,Backlash,Edge,Kevin Owens,No
+40,2023-08-27,Money in the Bank,Drew McIntyre,Drew McIntyre,Yes
+41,2023-09-03,SummerSlam,Kevin Owens,Edge,No
+42,2023-09-10,Survivor Series,Bobby Lashley,Randy Orton,Yes
+43,2023-09-17,Extreme Rules,Charlotte Flair,Naomi,No
+44,2023-09-24,Hell in a Cell,Becky Lynch,Asuka,Yes
+45,2023-10-01,Fastlane,Sasha Banks,Bayley,No
+46,2023-10-08,Royal Rumble,Bayley,Sasha Banks,Yes
+47,2023-10-15,Elimination Chamber,Asuka,Shayna Baszler,No
+48,2023-10-22,WrestleMania,Shayna Baszler,Liv Morgan,Yes
+49,2023-10-29,Backlash,Nia Jax,Nia Jax,No
+50,2023-11-05,Money in the Bank,Rhea Ripley,Rhea Ripley,Yes
+1,2023-01-01,Royal Rumble,Liv Morgan,Becky Lynch,Yes
+2,2023-01-08,Elimination Chamber,Naomi,Charlotte Flair,No
+3,2023-01-15,WrestleMania,Finn Balor,Ricochet,Yes
+4,2023-01-22,Backlash,Kofi Kingston,Xavier Woods,No
+5,2023-01-29,Money in the Bank,Big E,Big E,Yes
+6,2023-02-05,SummerSlam,Xavier Woods,Kofi Kingston,No
+7,2023-02-12,Survivor Series,Ricochet,Finn Balor,Yes
+8,2023-02-19,Extreme Rules,Aleister Black,Velveteen Dream,No
+9,2023-02-26,Hell in a Cell,Tommaso Ciampa,Johnny Gargano,Yes
+10,2023-03-05,Fastlane,Johnny Gargano,Tommaso Ciampa,No
+11,2023-03-12,Royal Rumble,Adam Cole,Aleister Black,Yes
+12,2023-03-19,Elimination Chamber,Velveteen Dream,Adam Cole,No
+13,2023-03-26,WrestleMania,Keith Lee,Roderick Strong,Yes
+14,2023-04-02,Backlash,Damian Priest,Dexter Lumis,No
+15,2023-04-09,Money in the Bank,Dexter Lumis,Bronson Reed,Yes
+16,2023-04-16,SummerSlam,Bronson Reed,Damian Priest,No
+17,2023-04-23,Survivor Series,Roderick Strong,Keith Lee,Yes
+18,2023-04-30,Extreme Rules,Kyle O'Reilly,Gunther,No
+19,2023-05-07,Hell in a Cell,Pete Dunne,Walter,Yes
+20,2023-05-14,Fastlane,Ilja Dragunov,Ilja Dragunov,No
+21,2023-05-21,Royal Rumble,Walter,Pete Dunne,Yes
+22,2023-05-28,Elimination Chamber,Gunther,Kyle O'Reilly,No
+23,2023-06-04,WrestleMania,Jinder Mahal,Shelton Benjamin,Yes
+24,2023-06-11,Backlash,R-Truth,Cedric Alexander,No
+25,2023-06-18,Money in the Bank,Titus O'Neil,Titus O'Neil,Yes
+26,2023-06-25,SummerSlam,Cedric Alexander,R-Truth,No
+27,2023-07-02,Survivor Series,Shelton Benjamin,Jinder Mahal,Yes
+28,2023-07-09,Extreme Rules,The Miz,Elias,No
+29,2023-07-16,Hell in a Cell,Morrison,Matt Hardy,Yes
+30,2023-07-23,Fastlane,Jeff Hardy,Jeff Hardy,No
+31,2023-07-30,Royal Rumble,John Cena,AJ Styles,Yes
+32,2023-08-06,Elimination Chamber,Roman Reigns,Seth Rollins,No
+33,2023-08-13,WrestleMania,Brock Lesnar,Roman Reigns,Yes
+34,2023-08-20,Backlash,Seth Rollins,Brock Lesnar,No
+35,2023-08-27,Money in the Bank,Randy Orton,John Cena,Yes
+36,2023-09-03,SummerSlam,AJ Styles,Bobby Lashley,No
+37,2023-09-10,Survivor Series,Edge,Kevin Owens,Yes
+38,2023-09-17,Extreme Rules,Drew McIntyre,Drew McIntyre,No
+39,2023-09-24,Hell in a Cell,Kevin Owens,Edge,Yes
+40,2023-10-01,Fastlane,Bobby Lashley,Randy Orton,No
+41,2023-10-08,Royal Rumble,Charlotte Flair,Naomi,Yes
+42,2023-10-15,Elimination Chamber,Becky Lynch,Asuka,No
+43,2023-10-22,WrestleMania,Sasha Banks,Bayley,Yes
+44,2023-10-29,Backlash,Bayley,Sasha Banks,No
+45,2023-11-05,Money in the Bank,Asuka,Shayna Baszler,Yes
+46,2023-01-01,Royal Rumble,Shayna Baszler,Liv Morgan,Yes
+47,2023-01-08,Elimination Chamber,Nia Jax,Nia Jax,No
+48,2023-01-15,WrestleMania,Rhea Ripley,Rhea Ripley,Yes
+49,2023-01-22,Backlash,Liv Morgan,Becky Lynch,No
+50,2023-01-29,Money in the Bank,Naomi,Charlotte Flair,Yes
+1,2023-02-05,SummerSlam,Finn Balor,Ricochet,No
+2,2023-02-12,Survivor Series,Kofi Kingston,Xavier Woods,Yes
+3,2023-02-19,Extreme Rules,Big E,Big E,No
+4,2023-02-26,Hell in a Cell,Xavier Woods,Kofi Kingston,Yes
+5,2023-03-05,Fastlane,Ricochet,Finn Balor,No
+6,2023-03-12,Royal Rumble,Aleister Black,Velveteen Dream,Yes
+7,2023-03-19,Elimination Chamber,Tommaso Ciampa,Johnny Gargano,No
+8,2023-03-26,WrestleMania,Johnny Gargano,Tommaso Ciampa,Yes
+9,2023-04-02,Backlash,Adam Cole,Aleister Black,No
+10,2023-04-09,Money in the Bank,Velveteen Dream,Adam Cole,Yes
+11,2023-04-16,SummerSlam,Keith Lee,Roderick Strong,No
+12,2023-04-23,Survivor Series,Damian Priest,Dexter Lumis,Yes
+13,2023-04-30,Extreme Rules,Dexter Lumis,Bronson Reed,No
+14,2023-05-07,Hell in a Cell,Bronson Reed,Damian Priest,Yes
+15,2023-05-14,Fastlane,Roderick Strong,Keith Lee,No
+16,2023-05-21,Royal Rumble,Kyle O'Reilly,Gunther,Yes
+17,2023-05-28,Elimination Chamber,Pete Dunne,Walter,No
+18,2023-06-04,WrestleMania,Ilja Dragunov,Ilja Dragunov,Yes
+19,2023-06-11,Backlash,Walter,Pete Dunne,No
+20,2023-06-18,Money in the Bank,Gunther,Kyle O'Reilly,Yes
+21,2023-06-25,SummerSlam,Jinder Mahal,Shelton Benjamin,No
+22,2023-07-02,Survivor Series,R-Truth,Cedric Alexander,Yes
+23,2023-07-09,Extreme Rules,Titus O'Neil,Titus O'Neil,No
+24,2023-07-16,Hell in a Cell,Cedric Alexander,R-Truth,Yes
+25,2023-07-23,Fastlane,Shelton Benjamin,Jinder Mahal,No
+26,2023-07-30,Royal Rumble,The Miz,Elias,Yes
+27,2023-08-06,Elimination Chamber,Morrison,Matt Hardy,No
+28,2023-08-13,WrestleMania,Jeff Hardy,Jeff Hardy,Yes
+29,2023-08-20,Backlash,John Cena,AJ Styles,No
+30,2023-08-27,Money in the Bank,Roman Reigns,Seth Rollins,Yes
+31,2023-09-03,SummerSlam,Brock Lesnar,Roman Reigns,No
+32,2023-09-10,Survivor Series,Seth Rollins,Brock Lesnar,Yes
+33,2023-09-17,Extreme Rules,Randy Orton,John Cena,No
+34,2023-09-24,Hell in a Cell,AJ Styles,Bobby Lashley,Yes
+35,2023-10-01,Fastlane,Edge,Kevin Owens,No
+36,2023-10-08,Royal Rumble,Drew McIntyre,Drew McIntyre,Yes
+37,2023-10-15,Elimination Chamber,Kevin Owens,Edge,No
+38,2023-10-22,WrestleMania,Bobby Lashley,Randy Orton,Yes
+39,2023-10-29,Backlash,Charlotte Flair,Naomi,No
+40,2023-11-05,Money in the Bank,Becky Lynch,Asuka,Yes
+41,2023-01-01,Royal Rumble,Sasha Banks,Bayley,Yes
+42,2023-01-08,Elimination Chamber,Bayley,Sasha Banks,No
+43,2023-01-15,WrestleMania,Asuka,Shayna Baszler,Yes
+44,2023-01-22,Backlash,Shayna Baszler,Liv Morgan,No
+45,2023-01-29,Money in the Bank,Nia Jax,Nia Jax,Yes
+46,2023-02-05,SummerSlam,Rhea Ripley,Rhea Ripley,No
+47,2023-02-12,Survivor Series,Liv Morgan,Becky Lynch,Yes
+48,2023-02-19,Extreme Rules,Naomi,Charlotte Flair,No
+49,2023-02-26,Hell in a Cell,Finn Balor,Ricochet,Yes
+50,2023-03-05,Fastlane,Kofi Kingston,Xavier Woods,No
+1,2023-03-12,Royal Rumble,Big E,Big E,Yes
+2,2023-03-19,Elimination Chamber,Xavier Woods,Kofi Kingston,No
+3,2023-03-26,WrestleMania,Ricochet,Finn Balor,Yes
+4,2023-04-02,Backlash,Aleister Black,Velveteen Dream,No
+5,2023-04-09,Money in the Bank,Tommaso Ciampa,Johnny Gargano,Yes
+6,2023-04-16,SummerSlam,Johnny Gargano,Tommaso Ciampa,No
+7,2023-04-23,Survivor Series,Adam Cole,Aleister Black,Yes
+8,2023-04-30,Extreme Rules,Velveteen Dream,Adam Cole,No
+9,2023-05-07,Hell in a Cell,Keith Lee,Roderick Strong,Yes
+10,2023-05-14,Fastlane,Damian Priest,Dexter Lumis,No
+11,2023-05-21,Royal Rumble,Dexter Lumis,Bronson Reed,Yes
+12,2023-05-28,Elimination Chamber,Bronson Reed,Damian Priest,No
+13,2023-06-04,WrestleMania,Roderick Strong,Keith Lee,Yes
+14,2023-06-11,Backlash,Kyle O'Reilly,Gunther,No
+15,2023-06-18,Money in the Bank,Pete Dunne,Walter,Yes
+16,2023-06-25,SummerSlam,Ilja Dragunov,Ilja Dragunov,No
+17,2023-07-02,Survivor Series,Walter,Pete Dunne,Yes
+18,2023-07-09,Extreme Rules,Gunther,Kyle O'Reilly,No
+19,2023-07-16,Hell in a Cell,Jinder Mahal,Shelton Benjamin,Yes
+20,2023-07-23,Fastlane,R-Truth,Cedric Alexander,No
+21,2023-07-30,Royal Rumble,Titus O'Neil,Titus O'Neil,Yes
+22,2023-08-06,Elimination Chamber,Cedric Alexander,R-Truth,No
+23,2023-08-13,WrestleMania,Shelton Benjamin,Jinder Mahal,Yes
+24,2023-08-20,Backlash,The Miz,Elias,No
+25,2023-08-27,Money in the Bank,Morrison,Matt Hardy,Yes
+26,2023-09-03,SummerSlam,Jeff Hardy,Jeff Hardy,No
+27,2023-09-10,Survivor Series,John Cena,AJ Styles,Yes
+28,2023-09-17,Extreme Rules,Roman Reigns,Seth Rollins,No
+29,2023-09-24,Hell in a Cell,Brock Lesnar,Roman Reigns,Yes
+30,2023-10-01,Fastlane,Seth Rollins,Brock Lesnar,No
+31,2023-10-08,Royal Rumble,Randy Orton,John Cena,Yes
+32,2023-10-15,Elimination Chamber,AJ Styles,Bobby Lashley,No
+33,2023-10-22,WrestleMania,Edge,Kevin Owens,Yes
+34,2023-10-29,Backlash,Drew McIntyre,Drew McIntyre,No
+35,2023-11-05,Money in the Bank,Kevin Owens,Edge,Yes
+36,2023-01-01,Royal Rumble,Bobby Lashley,Randy Orton,Yes
+37,2023-01-08,Elimination Chamber,Charlotte Flair,Naomi,No
+38,2023-01-15,WrestleMania,Becky Lynch,Asuka,Yes
+39,2023-01-22,Backlash,Sasha Banks,Bayley,No
+40,2023-01-29,Money in the Bank,Bayley,Sasha Banks,Yes
+41,2023-02-05,SummerSlam,Asuka,Shayna Baszler,No
+42,2023-02-12,Survivor Series,Shayna Baszler,Liv Morgan,Yes
+43,2023-02-19,Extreme Rules,Nia Jax,Nia Jax,No
+44,2023-02-26,Hell in a Cell,Rhea Ripley,Rhea Ripley,Yes
+45,2023-03-05,Fastlane,Liv Morgan,Becky Lynch,No
+46,2023-03-12,Royal Rumble,Naomi,Charlotte Flair,Yes
+47,2023-03-19,Elimination Chamber,Finn Balor,Ricochet,No
+48,2023-03-26,WrestleMania,Kofi Kingston,Xavier Woods,Yes
+49,2023-04-02,Backlash,Big E,Big E,No
+50,2023-04-09,Money in the Bank,Xavier Woods,Kofi Kingston,Yes
+1,2023-04-16,SummerSlam,Ricochet,Finn Balor,No
+2,2023-04-23,Survivor Series,Aleister Black,Velveteen Dream,Yes
+3,2023-04-30,Extreme Rules,Tommaso Ciampa,Johnny Gargano,No
+4,2023-05-07,Hell in a Cell,Johnny Gargano,Tommaso Ciampa,Yes
+5,2023-05-14,Fastlane,Adam Cole,Aleister Black,No
+6,2023-05-21,Royal Rumble,Velveteen Dream,Adam Cole,Yes
+7,2023-05-28,Elimination Chamber,Keith Lee,Roderick Strong,No
+8,2023-06-04,WrestleMania,Damian Priest,Dexter Lumis,Yes
+9,2023-06-11,Backlash,Dexter Lumis,Bronson Reed,No
+10,2023-06-18,Money in the Bank,Bronson Reed,Damian Priest,Yes
+11,2023-06-25,SummerSlam,Roderick Strong,Keith Lee,No
+12,2023-07-02,Survivor Series,Kyle O'Reilly,Gunther,Yes
+13,2023-07-09,Extreme Rules,Pete Dunne,Walter,No
+14,2023-07-16,Hell in a Cell,Ilja Dragunov,Ilja Dragunov,Yes
+15,2023-07-23,Fastlane,Walter,Pete Dunne,No
+16,2023-07-30,Royal Rumble,Gunther,Kyle O'Reilly,Yes
+17,2023-08-06,Elimination Chamber,Jinder Mahal,Shelton Benjamin,No
+18,2023-08-13,WrestleMania,R-Truth,Cedric Alexander,Yes
+19,2023-08-20,Backlash,Titus O'Neil,Titus O'Neil,No
+20,2023-08-27,Money in the Bank,Cedric Alexander,R-Truth,Yes
+21,2023-09-03,SummerSlam,Shelton Benjamin,Jinder Mahal,No
+22,2023-09-10,Survivor Series,The Miz,Elias,Yes
+23,2023-09-17,Extreme Rules,Morrison,Matt Hardy,No
+24,2023-09-24,Hell in a Cell,Jeff Hardy,Jeff Hardy,Yes
+25,2023-10-01,Fastlane,John Cena,AJ Styles,No
+26,2023-10-08,Royal Rumble,Roman Reigns,Seth Rollins,Yes
+27,2023-10-15,Elimination Chamber,Brock Lesnar,Roman Reigns,No
+28,2023-10-22,WrestleMania,Seth Rollins,Brock Lesnar,Yes
+29,2023-10-29,Backlash,Randy Orton,John Cena,No
+30,2023-11-05,Money in the Bank,AJ Styles,Bobby Lashley,Yes
+31,2023-01-01,Royal Rumble,Edge,Kevin Owens,Yes
+32,2023-01-08,Elimination Chamber,Drew McIntyre,Drew McIntyre,No
+33,2023-01-15,WrestleMania,Kevin Owens,Edge,Yes
+34,2023-01-22,Backlash,Bobby Lashley,Randy Orton,No
+35,2023-01-29,Money in the Bank,Charlotte Flair,Naomi,Yes
+36,2023-02-05,SummerSlam,Becky Lynch,Asuka,No
+37,2023-02-12,Survivor Series,Sasha Banks,Bayley,Yes
+38,2023-02-19,Extreme Rules,Bayley,Sasha Banks,No
+39,2023-02-26,Hell in a Cell,Asuka,Shayna Baszler,Yes
+40,2023-03-05,Fastlane,Shayna Baszler,Liv Morgan,No
+41,2023-03-12,Royal Rumble,Nia Jax,Nia Jax,Yes
+42,2023-03-19,Elimination Chamber,Rhea Ripley,Rhea Ripley,No
+43,2023-03-26,WrestleMania,Liv Morgan,Becky Lynch,Yes
+44,2023-04-02,Backlash,Naomi,Charlotte Flair,No
+45,2023-04-09,Money in the Bank,Finn Balor,Ricochet,Yes
+46,2023-04-16,SummerSlam,Kofi Kingston,Xavier Woods,No
+47,2023-04-23,Survivor Series,Big E,Big E,Yes
+48,2023-04-30,Extreme Rules,Xavier Woods,Kofi Kingston,No
+49,2023-05-07,Hell in a Cell,Ricochet,Finn Balor,Yes
+50,2023-05-14,Fastlane,Aleister Black,Velveteen Dream,No
+1,2023-05-21,Royal Rumble,Tommaso Ciampa,Johnny Gargano,Yes
+2,2023-05-28,Elimination Chamber,Johnny Gargano,Tommaso Ciampa,No
+3,2023-06-04,WrestleMania,Adam Cole,Aleister Black,Yes
+4,2023-06-11,Backlash,Velveteen Dream,Adam Cole,No
+5,2023-06-18,Money in the Bank,Keith Lee,Roderick Strong,Yes
+6,2023-06-25,SummerSlam,Damian Priest,Dexter Lumis,No
+7,2023-07-02,Survivor Series,Dexter Lumis,Bronson Reed,Yes
+8,2023-07-09,Extreme Rules,Bronson Reed,Damian Priest,No
+9,2023-07-16,Hell in a Cell,Roderick Strong,Keith Lee,Yes
+10,2023-07-23,Fastlane,Kyle O'Reilly,Gunther,No
+11,2023-07-30,Royal Rumble,Pete Dunne,Walter,Yes
+12,2023-08-06,Elimination Chamber,Ilja Dragunov,Ilja Dragunov,No
+13,2023-08-13,WrestleMania,Walter,Pete Dunne,Yes
+14,2023-08-20,Backlash,Gunther,Kyle O'Reilly,No
+15,2023-08-27,Money in the Bank,Jinder Mahal,Shelton Benjamin,Yes
+16,2023-09-03,SummerSlam,R-Truth,Cedric Alexander,No
+17,2023-09-10,Survivor Series,Titus O'Neil,Titus O'Neil,Yes
+18,2023-09-17,Extreme Rules,Cedric Alexander,R-Truth,No
+19,2023-09-24,Hell in a Cell,Shelton Benjamin,Jinder Mahal,Yes
+20,2023-10-01,Fastlane,The Miz,Elias,No
+21,2023-10-08,Royal Rumble,Morrison,Matt Hardy,Yes
+22,2023-10-15,Elimination Chamber,Jeff Hardy,Jeff Hardy,No
+23,2023-10-22,WrestleMania,John Cena,AJ Styles,Yes
+24,2023-10-29,Backlash,Roman Reigns,Seth Rollins,No
+25,2023-11-05,Money in the Bank,Brock Lesnar,Roman Reigns,Yes
+26,2023-01-01,Royal Rumble,Seth Rollins,Brock Lesnar,Yes
+27,2023-01-08,Elimination Chamber,Randy Orton,John Cena,No
+28,2023-01-15,WrestleMania,AJ Styles,Bobby Lashley,Yes
+29,2023-01-22,Backlash,Edge,Kevin Owens,No
+30,2023-01-29,Money in the Bank,Drew McIntyre,Drew McIntyre,Yes
+31,2023-02-05,SummerSlam,Kevin Owens,Edge,No
+32,2023-02-12,Survivor Series,Bobby Lashley,Randy Orton,Yes
+33,2023-02-19,Extreme Rules,Charlotte Flair,Naomi,No
+34,2023-02-26,Hell in a Cell,Becky Lynch,Asuka,Yes
+35,2023-03-05,Fastlane,Sasha Banks,Bayley,No
+36,2023-03-12,Royal Rumble,Bayley,Sasha Banks,Yes
+37,2023-03-19,Elimination Chamber,Asuka,Shayna Baszler,No
+38,2023-03-26,WrestleMania,Shayna Baszler,Liv Morgan,Yes
+39,2023-04-02,Backlash,Nia Jax,Nia Jax,No
+40,2023-04-09,Money in the Bank,Rhea Ripley,Rhea Ripley,Yes
+41,2023-04-16,SummerSlam,Liv Morgan,Becky Lynch,No
+42,2023-04-23,Survivor Series,Naomi,Charlotte Flair,Yes
+43,2023-04-30,Extreme Rules,Finn Balor,Ricochet,No
+44,2023-05-07,Hell in a Cell,Kofi Kingston,Xavier Woods,Yes
+45,2023-05-14,Fastlane,Big E,Big E,No
+46,2023-05-21,Royal Rumble,Xavier Woods,Kofi Kingston,Yes
+47,2023-05-28,Elimination Chamber,Ricochet,Finn Balor,No
+48,2023-06-04,WrestleMania,Aleister Black,Velveteen Dream,Yes
+49,2023-06-11,Backlash,Tommaso Ciampa,Johnny Gargano,No
+50,2023-06-18,Money in the Bank,Johnny Gargano,Tommaso Ciampa,Yes
+1,2023-06-25,SummerSlam,Adam Cole,Aleister Black,No
+2,2023-07-02,Survivor Series,Velveteen Dream,Adam Cole,Yes
+3,2023-07-09,Extreme Rules,Keith Lee,Roderick Strong,No
+4,2023-07-16,Hell in a Cell,Damian Priest,Dexter Lumis,Yes
+5,2023-07-23,Fastlane,Dexter Lumis,Bronson Reed,No
+6,2023-07-30,Royal Rumble,Bronson Reed,Damian Priest,Yes
+7,2023-08-06,Elimination Chamber,Roderick Strong,Keith Lee,No
+8,2023-08-13,WrestleMania,Kyle O'Reilly,Gunther,Yes
+9,2023-08-20,Backlash,Pete Dunne,Walter,No
+10,2023-08-27,Money in the Bank,Ilja Dragunov,Ilja Dragunov,Yes
+11,2023-09-03,SummerSlam,Walter,Pete Dunne,No
+12,2023-09-10,Survivor Series,Gunther,Kyle O'Reilly,Yes
+13,2023-09-17,Extreme Rules,Jinder Mahal,Shelton Benjamin,No
+14,2023-09-24,Hell in a Cell,R-Truth,Cedric Alexander,Yes
+15,2023-10-01,Fastlane,Titus O'Neil,Titus O'Neil,No
+16,2023-10-08,Royal Rumble,Cedric Alexander,R-Truth,Yes
+17,2023-10-15,Elimination Chamber,Shelton Benjamin,Jinder Mahal,No
+18,2023-10-22,WrestleMania,The Miz,Elias,Yes
+19,2023-10-29,Backlash,Morrison,Matt Hardy,No
+20,2023-11-05,Money in the Bank,Jeff Hardy,Jeff Hardy,Yes
+21,2023-01-01,Royal Rumble,John Cena,AJ Styles,Yes
+22,2023-01-08,Elimination Chamber,Roman Reigns,Seth Rollins,No
+23,2023-01-15,WrestleMania,Brock Lesnar,Roman Reigns,Yes
+24,2023-01-22,Backlash,Seth Rollins,Brock Lesnar,No
+25,2023-01-29,Money in the Bank,Randy Orton,John Cena,Yes
+26,2023-02-05,SummerSlam,AJ Styles,Bobby Lashley,No
+27,2023-02-12,Survivor Series,Edge,Kevin Owens,Yes
+28,2023-02-19,Extreme Rules,Drew McIntyre,Drew McIntyre,No
+29,2023-02-26,Hell in a Cell,Kevin Owens,Edge,Yes
+30,2023-03-05,Fastlane,Bobby Lashley,Randy Orton,No
+31,2023-03-12,Royal Rumble,Charlotte Flair,Naomi,Yes
+32,2023-03-19,Elimination Chamber,Becky Lynch,Asuka,No
+33,2023-03-26,WrestleMania,Sasha Banks,Bayley,Yes
+34,2023-04-02,Backlash,Bayley,Sasha Banks,No
+35,2023-04-09,Money in the Bank,Asuka,Shayna Baszler,Yes
+36,2023-04-16,SummerSlam,Shayna Baszler,Liv Morgan,No
+37,2023-04-23,Survivor Series,Nia Jax,Nia Jax,Yes
+38,2023-04-30,Extreme Rules,Rhea Ripley,Rhea Ripley,No
+39,2023-05-07,Hell in a Cell,Liv Morgan,Becky Lynch,Yes
+40,2023-05-14,Fastlane,Naomi,Charlotte Flair,No
+41,2023-05-21,Royal Rumble,Finn Balor,Ricochet,Yes
+42,2023-05-28,Elimination Chamber,Kofi Kingston,Xavier Woods,No
+43,2023-06-04,WrestleMania,Big E,Big E,Yes
+44,2023-06-11,Backlash,Xavier Woods,Kofi Kingston,No
+45,2023-06-18,Money in the Bank,Ricochet,Finn Balor,Yes
+46,2023-06-25,SummerSlam,Aleister Black,Velveteen Dream,No
+47,2023-07-02,Survivor Series,Tommaso Ciampa,Johnny Gargano,Yes
+48,2023-07-09,Extreme Rules,Johnny Gargano,Tommaso Ciampa,No
+49,2023-07-16,Hell in a Cell,Adam Cole,Aleister Black,Yes
+50,2023-07-23,Fastlane,Velveteen Dream,Adam Cole,No
+1,2023-07-30,Royal Rumble,Keith Lee,Roderick Strong,Yes
+2,2023-08-06,Elimination Chamber,Damian Priest,Dexter Lumis,No
+3,2023-08-13,WrestleMania,Dexter Lumis,Bronson Reed,Yes
+4,2023-08-20,Backlash,Bronson Reed,Damian Priest,No
+5,2023-08-27,Money in the Bank,Roderick Strong,Keith Lee,Yes
+6,2023-09-03,SummerSlam,Kyle O'Reilly,Gunther,No
+7,2023-09-10,Survivor Series,Pete Dunne,Walter,Yes
+8,2023-09-17,Extreme Rules,Ilja Dragunov,Ilja Dragunov,No
+9,2023-09-24,Hell in a Cell,Walter,Pete Dunne,Yes
+10,2023-10-01,Fastlane,Gunther,Kyle O'Reilly,No
+11,2023-10-08,Royal Rumble,Jinder Mahal,Shelton Benjamin,Yes
+12,2023-10-15,Elimination Chamber,R-Truth,Cedric Alexander,No
+13,2023-10-22,WrestleMania,Titus O'Neil,Titus O'Neil,Yes
+14,2023-10-29,Backlash,Cedric Alexander,R-Truth,No
+15,2023-11-05,Money in the Bank,Shelton Benjamin,Jinder Mahal,Yes
+16,2023-01-01,Royal Rumble,The Miz,Elias,Yes
+17,2023-01-08,Elimination Chamber,Morrison,Matt Hardy,No
+18,2023-01-15,WrestleMania,Jeff Hardy,Jeff Hardy,Yes
+19,2023-01-22,Backlash,John Cena,AJ Styles,No
+20,2023-01-29,Money in the Bank,Roman Reigns,Seth Rollins,Yes
+21,2023-02-05,SummerSlam,Brock Lesnar,Roman Reigns,No
+22,2023-02-12,Survivor Series,Seth Rollins,Brock Lesnar,Yes
+23,2023-02-19,Extreme Rules,Randy Orton,John Cena,No
+24,2023-02-26,Hell in a Cell,AJ Styles,Bobby Lashley,Yes
+25,2023-03-05,Fastlane,Edge,Kevin Owens,No
+26,2023-03-12,Royal Rumble,Drew McIntyre,Drew McIntyre,Yes
+27,2023-03-19,Elimination Chamber,Kevin Owens,Edge,No
+28,2023-03-26,WrestleMania,Bobby Lashley,Randy Orton,Yes
+29,2023-04-02,Backlash,Charlotte Flair,Naomi,No
+30,2023-04-09,Money in the Bank,Becky Lynch,Asuka,Yes
+31,2023-04-16,SummerSlam,Sasha Banks,Bayley,No
+32,2023-04-23,Survivor Series,Bayley,Sasha Banks,Yes
+33,2023-04-30,Extreme Rules,Asuka,Shayna Baszler,No
+34,2023-05-07,Hell in a Cell,Shayna Baszler,Liv Morgan,Yes
+35,2023-05-14,Fastlane,Nia Jax,Nia Jax,No
+36,2023-05-21,Royal Rumble,Rhea Ripley,Rhea Ripley,Yes
+37,2023-05-28,Elimination Chamber,Liv Morgan,Becky Lynch,No
+38,2023-06-04,WrestleMania,Naomi,Charlotte Flair,Yes
+39,2023-06-11,Backlash,Finn Balor,Ricochet,No
+40,2023-06-18,Money in the Bank,Kofi Kingston,Xavier Woods,Yes
+41,2023-06-25,SummerSlam,Big E,Big E,No
+42,2023-07-02,Survivor Series,Xavier Woods,Kofi Kingston,Yes
+43,2023-07-09,Extreme Rules,Ricochet,Finn Balor,No
+44,2023-07-16,Hell in a Cell,Aleister Black,Velveteen Dream,Yes
+45,2023-07-23,Fastlane,Tommaso Ciampa,Johnny Gargano,No
+46,2023-07-30,Royal Rumble,Johnny Gargano,Tommaso Ciampa,Yes
+47,2023-08-06,Elimination Chamber,Adam Cole,Aleister Black,No
+48,2023-08-13,WrestleMania,Velveteen Dream,Adam Cole,Yes
+49,2023-08-20,Backlash,Keith Lee,Roderick Strong,No
+50,2023-08-27,Money in the Bank,Damian Priest,Dexter Lumis,Yes
+1,2023-09-03,SummerSlam,Dexter Lumis,Bronson Reed,No
+2,2023-09-10,Survivor Series,Bronson Reed,Damian Priest,Yes
+3,2023-09-17,Extreme Rules,Roderick Strong,Keith Lee,No
+4,2023-09-24,Hell in a Cell,Kyle O'Reilly,Gunther,Yes
+5,2023-10-01,Fastlane,Pete Dunne,Walter,No
+6,2023-10-08,Royal Rumble,Ilja Dragunov,Ilja Dragunov,Yes
+7,2023-10-15,Elimination Chamber,Walter,Pete Dunne,No
+8,2023-10-22,WrestleMania,Gunther,Kyle O'Reilly,Yes
+9,2023-10-29,Backlash,Jinder Mahal,Shelton Benjamin,No
+10,2023-11-05,Money in the Bank,R-Truth,Cedric Alexander,Yes
+11,2023-01-01,Royal Rumble,Titus O'Neil,Titus O'Neil,Yes
+12,2023-01-08,Elimination Chamber,Cedric Alexander,R-Truth,No
+13,2023-01-15,WrestleMania,Shelton Benjamin,Jinder Mahal,Yes
+14,2023-01-22,Backlash,The Miz,Elias,No
+15,2023-01-29,Money in the Bank,Morrison,Matt Hardy,Yes
+16,2023-02-05,SummerSlam,Jeff Hardy,Jeff Hardy,No
+17,2023-02-12,Survivor Series,John Cena,AJ Styles,Yes
+18,2023-02-19,Extreme Rules,Roman Reigns,Seth Rollins,No
+19,2023-02-26,Hell in a Cell,Brock Lesnar,Roman Reigns,Yes
+20,2023-03-05,Fastlane,Seth Rollins,Brock Lesnar,No
+21,2023-03-12,Royal Rumble,Randy Orton,John Cena,Yes
+22,2023-03-19,Elimination Chamber,AJ Styles,Bobby Lashley,No
+23,2023-03-26,WrestleMania,Edge,Kevin Owens,Yes
+24,2023-04-02,Backlash,Drew McIntyre,Drew McIntyre,No
+25,2023-04-09,Money in the Bank,Kevin Owens,Edge,Yes
+26,2023-04-16,SummerSlam,Bobby Lashley,Randy Orton,No
+27,2023-04-23,Survivor Series,Charlotte Flair,Naomi,Yes
+28,2023-04-30,Extreme Rules,Becky Lynch,Asuka,No
+29,2023-05-07,Hell in a Cell,Sasha Banks,Bayley,Yes
+30,2023-05-14,Fastlane,Bayley,Sasha Banks,No
+31,2023-05-21,Royal Rumble,Asuka,Shayna Baszler,Yes
+32,2023-05-28,Elimination Chamber,Shayna Baszler,Liv Morgan,No
+33,2023-06-04,WrestleMania,Nia Jax,Nia Jax,Yes
+34,2023-06-11,Backlash,Rhea Ripley,Rhea Ripley,No
+35,2023-06-18,Money in the Bank,Liv Morgan,Becky Lynch,Yes
+36,2023-06-25,SummerSlam,Naomi,Charlotte Flair,No
+37,2023-07-02,Survivor Series,Finn Balor,Ricochet,Yes
+38,2023-07-09,Extreme Rules,Kofi Kingston,Xavier Woods,No
+39,2023-07-16,Hell in a Cell,Big E,Big E,Yes
+40,2023-07-23,Fastlane,Xavier Woods,Kofi Kingston,No
+41,2023-07-30,Royal Rumble,Ricochet,Finn Balor,Yes
+42,2023-08-06,Elimination Chamber,Aleister Black,Velveteen Dream,No
+43,2023-08-13,WrestleMania,Tommaso Ciampa,Johnny Gargano,Yes
+44,2023-08-20,Backlash,Johnny Gargano,Tommaso Ciampa,No
+45,2023-08-27,Money in the Bank,Adam Cole,Aleister Black,Yes
+46,2023-09-03,SummerSlam,Velveteen Dream,Adam Cole,No
+47,2023-09-10,Survivor Series,Keith Lee,Roderick Strong,Yes
+48,2023-09-17,Extreme Rules,Damian Priest,Dexter Lumis,No
+49,2023-09-24,Hell in a Cell,Dexter Lumis,Bronson Reed,Yes
+50,2023-10-01,Fastlane,Bronson Reed,Damian Priest,No
+1,2023-10-08,Royal Rumble,Roderick Strong,Keith Lee,Yes
+2,2023-10-15,Elimination Chamber,Kyle O'Reilly,Gunther,No
+3,2023-10-22,WrestleMania,Pete Dunne,Walter,Yes
+4,2023-10-29,Backlash,Ilja Dragunov,Ilja Dragunov,No
+5,2023-11-05,Money in the Bank,Walter,Pete Dunne,Yes
+6,2023-01-01,Royal Rumble,Gunther,Kyle O'Reilly,Yes
+7,2023-01-08,Elimination Chamber,Jinder Mahal,Shelton Benjamin,No
+8,2023-01-15,WrestleMania,R-Truth,Cedric Alexander,Yes
+9,2023-01-22,Backlash,Titus O'Neil,Titus O'Neil,No
+10,2023-01-29,Money in the Bank,Cedric Alexander,R-Truth,Yes
+11,2023-02-05,SummerSlam,Shelton Benjamin,Jinder Mahal,No
+12,2023-02-12,Survivor Series,The Miz,Elias,Yes
+13,2023-02-19,Extreme Rules,Morrison,Matt Hardy,No
+14,2023-02-26,Hell in a Cell,Jeff Hardy,Jeff Hardy,Yes
+15,2023-03-05,Fastlane,John Cena,AJ Styles,No
+16,2023-03-12,Royal Rumble,Roman Reigns,Seth Rollins,Yes
+17,2023-03-19,Elimination Chamber,Brock Lesnar,Roman Reigns,No
+18,2023-03-26,WrestleMania,Seth Rollins,Brock Lesnar,Yes
+19,2023-04-02,Backlash,Randy Orton,John Cena,No
+20,2023-04-09,Money in the Bank,AJ Styles,Bobby Lashley,Yes
+21,2023-04-16,SummerSlam,Edge,Kevin Owens,No
+22,2023-04-23,Survivor Series,Drew McIntyre,Drew McIntyre,Yes
+23,2023-04-30,Extreme Rules,Kevin Owens,Edge,No
+24,2023-05-07,Hell in a Cell,Bobby Lashley,Randy Orton,Yes
+25,2023-05-14,Fastlane,Charlotte Flair,Naomi,No
+26,2023-05-21,Royal Rumble,Becky Lynch,Asuka,Yes
+27,2023-05-28,Elimination Chamber,Sasha Banks,Bayley,No
+28,2023-06-04,WrestleMania,Bayley,Sasha Banks,Yes
+29,2023-06-11,Backlash,Asuka,Shayna Baszler,No
+30,2023-06-18,Money in the Bank,Shayna Baszler,Liv Morgan,Yes
+31,2023-06-25,SummerSlam,Nia Jax,Nia Jax,No
+32,2023-07-02,Survivor Series,Rhea Ripley,Rhea Ripley,Yes
+33,2023-07-09,Extreme Rules,Liv Morgan,Becky Lynch,No
+34,2023-07-16,Hell in a Cell,Naomi,Charlotte Flair,Yes
+35,2023-07-23,Fastlane,Finn Balor,Ricochet,No
+36,2023-07-30,Royal Rumble,Kofi Kingston,Xavier Woods,Yes
+37,2023-08-06,Elimination Chamber,Big E,Big E,No
+38,2023-08-13,WrestleMania,Xavier Woods,Kofi Kingston,Yes
+39,2023-08-20,Backlash,Ricochet,Finn Balor,No
+40,2023-08-27,Money in the Bank,Aleister Black,Velveteen Dream,Yes
+41,2023-09-03,SummerSlam,Tommaso Ciampa,Johnny Gargano,No
+42,2023-09-10,Survivor Series,Johnny Gargano,Tommaso Ciampa,Yes
+43,2023-09-17,Extreme Rules,Adam Cole,Aleister Black,No
+44,2023-09-24,Hell in a Cell,Velveteen Dream,Adam Cole,Yes
+45,2023-10-01,Fastlane,Keith Lee,Roderick Strong,No
+46,2023-10-08,Royal Rumble,Damian Priest,Dexter Lumis,Yes
+47,2023-10-15,Elimination Chamber,Dexter Lumis,Bronson Reed,No
+48,2023-10-22,WrestleMania,Bronson Reed,Damian Priest,Yes
+49,2023-10-29,Backlash,Roderick Strong,Keith Lee,No
+50,2023-11-05,Money in the Bank,Kyle O'Reilly,Gunther,Yes
+1,2023-01-01,Royal Rumble,Pete Dunne,Walter,Yes
+2,2023-01-08,Elimination Chamber,Ilja Dragunov,Ilja Dragunov,No
+3,2023-01-15,WrestleMania,Walter,Pete Dunne,Yes
+4,2023-01-22,Backlash,Gunther,Kyle O'Reilly,No
+5,2023-01-29,Money in the Bank,Jinder Mahal,Shelton Benjamin,Yes
+6,2023-02-05,SummerSlam,R-Truth,Cedric Alexander,No
+7,2023-02-12,Survivor Series,Titus O'Neil,Titus O'Neil,Yes
+8,2023-02-19,Extreme Rules,Cedric Alexander,R-Truth,No
+9,2023-02-26,Hell in a Cell,Shelton Benjamin,Jinder Mahal,Yes
+10,2023-03-05,Fastlane,The Miz,Elias,No
+11,2023-03-12,Royal Rumble,Morrison,Matt Hardy,Yes
+12,2023-03-19,Elimination Chamber,Jeff Hardy,Jeff Hardy,No
+13,2023-03-26,WrestleMania,John Cena,AJ Styles,Yes
+14,2023-04-02,Backlash,Roman Reigns,Seth Rollins,No
+15,2023-04-09,Money in the Bank,Brock Lesnar,Roman Reigns,Yes
+16,2023-04-16,SummerSlam,Seth Rollins,Brock Lesnar,No
+17,2023-04-23,Survivor Series,Randy Orton,John Cena,Yes
+18,2023-04-30,Extreme Rules,AJ Styles,Bobby Lashley,No
+19,2023-05-07,Hell in a Cell,Edge,Kevin Owens,Yes
+20,2023-05-14,Fastlane,Drew McIntyre,Drew McIntyre,No
+21,2023-05-21,Royal Rumble,Kevin Owens,Edge,Yes
+22,2023-05-28,Elimination Chamber,Bobby Lashley,Randy Orton,No
+23,2023-06-04,WrestleMania,Charlotte Flair,Naomi,Yes
+24,2023-06-11,Backlash,Becky Lynch,Asuka,No
+25,2023-06-18,Money in the Bank,Sasha Banks,Bayley,Yes
+26,2023-06-25,SummerSlam,Bayley,Sasha Banks,No
+27,2023-07-02,Survivor Series,Asuka,Shayna Baszler,Yes
+28,2023-07-09,Extreme Rules,Shayna Baszler,Liv Morgan,No
+29,2023-07-16,Hell in a Cell,Nia Jax,Nia Jax,Yes
+30,2023-07-23,Fastlane,Rhea Ripley,Rhea Ripley,No
+31,2023-07-30,Royal Rumble,Liv Morgan,Becky Lynch,Yes
+32,2023-08-06,Elimination Chamber,Naomi,Charlotte Flair,No
+33,2023-08-13,WrestleMania,Finn Balor,Ricochet,Yes
+34,2023-08-20,Backlash,Kofi Kingston,Xavier Woods,No
+35,2023-08-27,Money in the Bank,Big E,Big E,Yes
+36,2023-09-03,SummerSlam,Xavier Woods,Kofi Kingston,No
+37,2023-09-10,Survivor Series,Ricochet,Finn Balor,Yes
+38,2023-09-17,Extreme Rules,Aleister Black,Velveteen Dream,No
+39,2023-09-24,Hell in a Cell,Tommaso Ciampa,Johnny Gargano,Yes
+40,2023-10-01,Fastlane,Johnny Gargano,Tommaso Ciampa,No
+41,2023-10-08,Royal Rumble,Adam Cole,Aleister Black,Yes
+42,2023-10-15,Elimination Chamber,Velveteen Dream,Adam Cole,No
+43,2023-10-22,WrestleMania,Keith Lee,Roderick Strong,Yes
+44,2023-10-29,Backlash,Damian Priest,Dexter Lumis,No
+45,2023-11-05,Money in the Bank,Dexter Lumis,Bronson Reed,Yes
+46,2023-01-01,Royal Rumble,Bronson Reed,Damian Priest,Yes
+47,2023-01-08,Elimination Chamber,Roderick Strong,Keith Lee,No
+48,2023-01-15,WrestleMania,Kyle O'Reilly,Gunther,Yes
+49,2023-01-22,Backlash,Pete Dunne,Walter,No
+50,2023-01-29,Money in the Bank,Ilja Dragunov,Ilja Dragunov,Yes
+1,2023-02-05,SummerSlam,Walter,Pete Dunne,No
+2,2023-02-12,Survivor Series,Gunther,Kyle O'Reilly,Yes
+3,2023-02-19,Extreme Rules,Jinder Mahal,Shelton Benjamin,No
+4,2023-02-26,Hell in a Cell,R-Truth,Cedric Alexander,Yes
+5,2023-03-05,Fastlane,Titus O'Neil,Titus O'Neil,No
+6,2023-03-12,Royal Rumble,Cedric Alexander,R-Truth,Yes
+7,2023-03-19,Elimination Chamber,Shelton Benjamin,Jinder Mahal,No
+8,2023-03-26,WrestleMania,The Miz,Elias,Yes
+9,2023-04-02,Backlash,Morrison,Matt Hardy,No
+10,2023-04-09,Money in the Bank,Jeff Hardy,Jeff Hardy,Yes
+11,2023-04-16,SummerSlam,John Cena,AJ Styles,No
+12,2023-04-23,Survivor Series,Roman Reigns,Seth Rollins,Yes
+13,2023-04-30,Extreme Rules,Brock Lesnar,Roman Reigns,No
+14,2023-05-07,Hell in a Cell,Seth Rollins,Brock Lesnar,Yes
+15,2023-05-14,Fastlane,Randy Orton,John Cena,No
+16,2023-05-21,Royal Rumble,AJ Styles,Bobby Lashley,Yes
+17,2023-05-28,Elimination Chamber,Edge,Kevin Owens,No
+18,2023-06-04,WrestleMania,Drew McIntyre,Drew McIntyre,Yes
+19,2023-06-11,Backlash,Kevin Owens,Edge,No
+20,2023-06-18,Money in the Bank,Bobby Lashley,Randy Orton,Yes
+21,2023-06-25,SummerSlam,Charlotte Flair,Naomi,No
+22,2023-07-02,Survivor Series,Becky Lynch,Asuka,Yes
+23,2023-07-09,Extreme Rules,Sasha Banks,Bayley,No
+24,2023-07-16,Hell in a Cell,Bayley,Sasha Banks,Yes
+25,2023-07-23,Fastlane,Asuka,Shayna Baszler,No
+26,2023-07-30,Royal Rumble,Shayna Baszler,Liv Morgan,Yes
+27,2023-08-06,Elimination Chamber,Nia Jax,Nia Jax,No
+28,2023-08-13,WrestleMania,Rhea Ripley,Rhea Ripley,Yes
+29,2023-08-20,Backlash,Liv Morgan,Becky Lynch,No
+30,2023-08-27,Money in the Bank,Naomi,Charlotte Flair,Yes
+31,2023-09-03,SummerSlam,Finn Balor,Ricochet,No
+32,2023-09-10,Survivor Series,Kofi Kingston,Xavier Woods,Yes
+33,2023-09-17,Extreme Rules,Big E,Big E,No
+34,2023-09-24,Hell in a Cell,Xavier Woods,Kofi Kingston,Yes
+35,2023-10-01,Fastlane,Ricochet,Finn Balor,No
+36,2023-10-08,Royal Rumble,Aleister Black,Velveteen Dream,Yes
+37,2023-10-15,Elimination Chamber,Tommaso Ciampa,Johnny Gargano,No
+38,2023-10-22,WrestleMania,Johnny Gargano,Tommaso Ciampa,Yes
+39,2023-10-29,Backlash,Adam Cole,Aleister Black,No
+40,2023-11-05,Money in the Bank,Velveteen Dream,Adam Cole,Yes
+41,2023-01-01,Royal Rumble,Keith Lee,Roderick Strong,Yes
+42,2023-01-08,Elimination Chamber,Damian Priest,Dexter Lumis,No
+43,2023-01-15,WrestleMania,Dexter Lumis,Bronson Reed,Yes
+44,2023-01-22,Backlash,Bronson Reed,Damian Priest,No
+45,2023-01-29,Money in the Bank,Roderick Strong,Keith Lee,Yes
+46,2023-02-05,SummerSlam,Kyle O'Reilly,Gunther,No
+47,2023-02-12,Survivor Series,Pete Dunne,Walter,Yes
+48,2023-02-19,Extreme Rules,Ilja Dragunov,Ilja Dragunov,No
+49,2023-02-26,Hell in a Cell,Walter,Pete Dunne,Yes
+50,2023-03-05,Fastlane,Gunther,Kyle O'Reilly,No
