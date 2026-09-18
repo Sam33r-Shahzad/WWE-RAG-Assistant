@@ -14,7 +14,7 @@ load_dotenv(override=True)
 # JUDGE_MODEL = "gemini-3.8-flash"
 CHAT_MODEL = "gemini/gemini-2.5-flash"
 JUDGE_MODEL = "gemini/gemini-2.5-flash"
-db_name = "vectordb"
+db_name = "vector_db"
 
 class RetrievalEval(BaseModel):
     mrr: float = Field(description="Mean Reciprocal Rank - average across all keywords")
