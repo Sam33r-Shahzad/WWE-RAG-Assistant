@@ -244,39 +244,3 @@ if __name__ == "__main__":
   main()
 
 
-
-# import gradio as gr
-# from dotenv import load_dotenv
-# from implementation.answer import answer_question
-
-# load_dotenv(override=True)
-
-# def chat_response(message, history):
-#     """Handle chat interactions simply."""
-#     if not message.strip():
-#         return history
-    
-#     history = history or []
-#     history.append({"role": "user", "content": message})
-    
-#     try:
-#         answer, chunks = answer_question(message, history)
-#         history.append({"role": "assistant", "content": answer})
-#     except Exception as e:
-#         history.append({"role": "assistant", "content": f"Error: {str(e)}"})
-        
-#     return history
-
-# def main():
-#     with gr.Blocks(title="WWEish AI Assistant") as app:
-#         gr.Markdown("# 🤼‍♂️ WWEish AI Assistant")
-        
-#         chatbot = gr.Chatbot(height=450)
-#         msg = gr.Textbox(placeholder="Ask anything about WWE...", container=False)
-        
-#         msg.submit(chat_response, inputs=[msg, chatbot], outputs=[chatbot])
-        
-#     app.launch(inbrowser=True)
-
-# if __name__ == "__main__":
-#     main()
